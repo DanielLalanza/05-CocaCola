@@ -1,24 +1,15 @@
-/* Coca-Cola Colors */
 
-:root {
-    --coca-cola-red: #FFC080; /* Coca-Cola Red */
-    --coca-cola-black: #000000; /* Coca-Cola Black */
-    --coca-cola-silver: #B1B1B1; /* Coca-Cola Silver */
-    --coca-cola-white: #FFFFFF; /* Coca-Cola White */
-  }
-  
-  .coca-cola-red {
-    background-color: var(--coca-cola-red);
-  }
-  
-  .coca-cola-black {
-    background-color: var(--coca-cola-black);
-  }
-  
-  .coca-cola-silver {
-    background-color: var(--coca-cola-silver);
-  }
-  
-  .coca-cola-white {
-    background-color: var(--coca-cola-white);
-  }
+body { 
+    background-color: #f7f7f7;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #FF3B30;
+}
+
+p {
+    font-size: 17px;
+}
